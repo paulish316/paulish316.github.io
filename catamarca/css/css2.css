@@ -1,0 +1,43 @@
+body{
+  background-image: url(..\..\..\catamarca\img\galeria_img\maxresdefault.jpg);
+}
+
+label{
+color: black;	
+}
+
+input, textarea, select, button {
+  width : 300px;
+  margin: 0;
+  border-radius: 10px;
+  font-family: franklin gothic medium;
+}
+
+textarea{
+	height:250px;
+}
+
+#tituloform{
+	margin-left: 50px;
+	font-family: franklin gothic medium;
+}
+
+#formulario {
+height: 459px;
+background-color: lightblue;
+border-radius: 50px;
+opacity: 0.8;
+width:400px;
+position:absolute;
+left:50%;
+margin-left:-200px;
+margin-bottom: :-1000px;
+top: 20%;
+}
+
+#nombre,#correo,#mensaje,#boton{
+margin-left:50px;
+}
+
+
+
